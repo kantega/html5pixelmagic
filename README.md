@@ -1,7 +1,7 @@
 HTML5 Pixel Magic!
 ========
 
-Demo code for programmatic access to video using Java and HTML5 / Javascript
+Workshop code for learing how to access video using HTML5 / Javascript
 
 To run this:
 
