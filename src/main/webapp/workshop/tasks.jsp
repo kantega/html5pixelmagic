@@ -57,7 +57,7 @@
     <p>
         <a href="paint/paint.jsp">Starting point</a>
     </p>
-    <h2>Our eyes suck at blue!?</h2>
+    <h2>Our eyes suck at blue!? (Advanced)</h2>
     <p>
         Did you know <a href="https://www.youtube.com/watch?v=TS9mmYJVn3Q">your eyes suck at blue</a>?
     </p>

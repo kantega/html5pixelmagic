@@ -83,8 +83,6 @@ window.addEventListener("load", function() {
 
         ctx.putImageData(imageData, 0, 0);
 
-        //stableCtx.clearRect(0, 0, 320, 240);
-
         if(left != -1) {
             ctx.strokeStyle = '#ff0000';
             ctx.lineWidth = 2;
@@ -97,8 +95,10 @@ window.addEventListener("load", function() {
             stableCtx.lineWidth = 1;
             stableCtx.fillStyle= "#f00";
             stableCtx.beginPath();
-            stableCtx.arc(left + (right-left)/2, top +(bottom-top)/2, 10, 0, Math.PI*2, true);
+            stableCtx.arc(320 -(left + (right-left)/2), top +(bottom-top)/2, 10, 0, Math.PI*2, true);
             stableCtx.fill();
+        } else {
+            stableCtx.clearRect(0, 0, 320, 240);
         }
 
         reqAnimFrame(loop);
