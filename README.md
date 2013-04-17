@@ -10,4 +10,4 @@ To run this:
 * Optionally add Maven's bin/ directory to your PATH environment variable
 * Optionally set the JAVA_HOME environment variable to point at your Java installation
 * Run mvn jetty:run
-* Open http://localhost:8080 in a recent version of Google Chrome (google/chrome)
+* Open http://localhost:8080 in a recent version of Google Chrome (http://google.com/chrome)
