@@ -1,4 +1,4 @@
-html5pixelmagic
-===============
+impresio
+========
 
-Workshop code for HTML5 Pixel Magic
+Demo code for programmatic access to video using Java and HTML5 / Javascript
